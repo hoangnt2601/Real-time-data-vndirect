@@ -5,7 +5,7 @@ import websockets
 import logging
 import price
 import parser_message
-logging.basicConfig(filename='test_BA.txt',level=logging.INFO)
+logging.basicConfig(filename='test_BA1.txt',level=logging.INFO)
 
 
 stock_ids = open("./StockIDs/HNX.txt", "r")
