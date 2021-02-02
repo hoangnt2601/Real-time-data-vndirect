@@ -9,7 +9,7 @@ attrs==19.1.0
 autopep8==1.4.4
 Babel==2.6.0
 backcall==0.1.0
-bleach==3.1.4
+bleach==3.3.0
 bokeh==1.1.0
 Bottleneck==1.2.1
 certifi==2019.3.9
