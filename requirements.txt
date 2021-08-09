@@ -118,7 +118,7 @@ python-dateutil==2.8.0
 python-louvain==0.13
 pytz==2019.1
 PyWavelets==1.0.3
-pywin32==223
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinpty==0.5.5
 PyYAML==5.1
