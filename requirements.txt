@@ -12,7 +12,7 @@ backcall==0.1.0
 bleach==3.1.4
 bokeh==1.1.0
 Bottleneck==1.2.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
